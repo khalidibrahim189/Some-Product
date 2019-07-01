@@ -1,0 +1,81 @@
+.jumbotron{
+    background-image: url(../img/lake.png);
+    height: 400px;
+    text-transform: uppercase;
+}
+
+.jumbotron h1{
+    font-family: 'Shadows Into Light', cursive; 
+}
+
+.jumbotron p{
+    color: #000;
+}
+
+.btn{
+    width: 200px;
+}
+
+h2{
+    text-align: center;
+}
+
+hr{
+    border-bottom: 2px solid black;
+    width: 200px;
+}
+
+
+/* Working team */
+
+.card-body img{
+    width: 400px;
+    height: 112px;
+}
+
+.card-body h3{
+    font-size: 19px;
+    color: #333;
+    font-weight: bold;
+}
+
+
+/* Working space */
+.section-1 .heading-1{
+    margin-top: 8%;
+}
+
+.section-1 .heading-2{
+    margin-bottom: 5%;
+    font-size: 39px;
+}
+
+.section-1 .para1{
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+
+
+/* Section 4 */
+.section-4{
+    margin-top: 8%;
+    background-color: grey;
+}
+
+.section-4 .row .col-md-7 .col-md-5{
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+
+.section-4 a{
+    color: lightseagreen;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.section-4 .para-1{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 5%;
+}
